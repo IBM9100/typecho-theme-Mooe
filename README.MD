@@ -1,12 +1,11 @@
 # typecho-theme-Mooe
+![](screenshot.png)
 
 一个简洁的单栏 Typecho 主题，基于[卜卜口](http://mouto.org/)修改制。
 
-
 版本：alpha
 
-![img](screenshot.png)
-
+###预览图
 ![pc](PC.png)
 
 ## 使用方法
