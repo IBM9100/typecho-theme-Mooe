@@ -7,7 +7,7 @@
 
 ![img](screenshot.png)
 
-![pc](pc.png)
+![pc](PC.png)
 
 ## 使用方法
 
